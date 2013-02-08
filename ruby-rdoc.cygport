@@ -1,0 +1,10 @@
+inherit rubygem
+
+NAME="ruby-rdoc"
+VERSION=3.12.1
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby rdoc module"
+DESCRIPTION="RDoc produces HTML and command-line documentation for Ruby
+projects. RDoc includes the rdoc and ri tools for generating and displaying
+online documentation."
