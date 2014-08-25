@@ -9,6 +9,8 @@ DESCRIPTION="RDoc produces HTML and command-line documentation for Ruby
 projects. RDoc includes the rdoc and ri tools for generating and displaying
 online documentation."
 
+ARCH=noarch
+
 PKG_NAMES="${NAME} ${NAME}-doc"
 ruby_rdoc_CONTENTS="usr/bin/ "${RUBYGEM_INSTDIR#/}" "${RUBYGEM_SPEC#/}
 ruby_rdoc_doc_CONTENTS=${RUBYGEM_DOCDIR#/}
