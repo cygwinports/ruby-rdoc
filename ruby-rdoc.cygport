@@ -1,7 +1,7 @@
 inherit rubygem
 
 NAME="ruby-rdoc"
-VERSION=4.3.0
+VERSION=5.1.0
 RELEASE=1
 CATEGORY="Ruby"
 SUMMARY="Ruby rdoc module"
